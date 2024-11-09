@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: dice
+server:
+  port: 8080
+
+app:
+  bot:
+    token:
+    name:
